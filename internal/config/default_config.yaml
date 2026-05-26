@@ -1,0 +1,11 @@
+keybindings:
+  quit: "ctrl+c,q"
+  cycle_focus: "tab"
+  edit: "e,enter"
+  edit_external: "E"
+  docs: "d"
+  help_toggle: "?"
+  clear: "x"
+  reset: "r"
+  copy: "y,ctrl+shift+c"
+  paste: "p,ctrl+shift+v"
