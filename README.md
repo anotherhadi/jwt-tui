@@ -2,6 +2,8 @@
 
 A terminal UI for inspecting, editing, and signing JSON Web Tokens (JWTs).
 
+<img alt="demo" src="./.github/assets/demo.png" width="700" />
+
 Built with [Bubbletea](https://charm.land/bubbletea) and [Lipgloss](https://charm.land/lipgloss).
 
 ## Features
